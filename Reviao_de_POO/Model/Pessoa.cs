@@ -20,12 +20,12 @@ namespace Reviao_de_POO.Model
 
         public void Cumprimentar ()
         {
-            Console.WriteLine($"Olá meu nome é: "+ nome);
+            Console.WriteLine($"Olá meu nome é {nome}.");
         }
 
         public void DizerIdade ()
         {
-            Console.WriteLine("Minha idade é: " + idade);
+            Console.WriteLine($"Eu tenho {idade} anos de idade!");
         }
     }
 }
