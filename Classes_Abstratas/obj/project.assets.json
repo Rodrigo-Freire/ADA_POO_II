@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo_Freire\\source\\repos\\ADA_POO_II\\Reviao_de_POO\\Reviao_de_POO.csproj",
-      "projectName": "Reviao_de_POO",
-      "projectPath": "C:\\Users\\Rodrigo_Freire\\source\\repos\\ADA_POO_II\\Reviao_de_POO\\Reviao_de_POO.csproj",
+      "projectUniqueName": "C:\\Users\\Rodrigo_Freire\\source\\repos\\ADA_POO_II\\Classes_Abstratas\\Classes_Abstratas.csproj",
+      "projectName": "Classes_Abstratas",
+      "projectPath": "C:\\Users\\Rodrigo_Freire\\source\\repos\\ADA_POO_II\\Classes_Abstratas\\Classes_Abstratas.csproj",
       "packagesPath": "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo_Freire\\source\\repos\\ADA_POO_II\\Reviao_de_POO\\obj\\",
+      "outputPath": "C:\\Users\\Rodrigo_Freire\\source\\repos\\ADA_POO_II\\Classes_Abstratas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodrigo_Freire\\AppData\\Roaming\\NuGet\\NuGet.Config",
