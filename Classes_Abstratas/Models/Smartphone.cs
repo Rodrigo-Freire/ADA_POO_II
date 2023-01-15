@@ -20,6 +20,7 @@ namespace Classes_Abstratas.Models
             this.modelo = modelo;
             this.imei = imei;
             this.memoria = memoria;
+            Console.Clear();
         }
 
         public void Ligar(int numerodiscado)
@@ -56,6 +57,7 @@ namespace Classes_Abstratas.Models
 
         public void recebeLigacao()
         {
+            Console.Clear();
             Random r = new Random();
             List<int> listaDdd = new List<int>() { 11,  12,     13,     14,     15,     16,     17,     18,     19,     21,     22,     24,     27,
                 28,     31,     32,     33,     34,     35,     37,     38,     41,     42,     43,     44,     45,     46,     47,     48,     49,
@@ -68,6 +70,8 @@ namespace Classes_Abstratas.Models
             int num3 = r.Next(2000, 9999);
 
             Console.WriteLine($"Recebendo ligação... ({ddd}) 9{num2}-{num3} ");
+            Console.Write("\nAperte qualquer tecla para continuar...");
+            Console.ReadKey();
         }
 
         public virtual void instalarApp()
