@@ -28,7 +28,7 @@ namespace Classes_Abstratas.Models
             while (chamando == 0)
             {
 
-                Console.Write("Por favor, digite o número para qual quer ligar: ");
+                Console.Write("Por favor, digite o número para qual deseja ligar: ");
                 string? input = Console.ReadLine();
 
                 if (int.TryParse(input, out numerodiscado))
@@ -70,9 +70,13 @@ namespace Classes_Abstratas.Models
             Console.WriteLine($"Recebendo ligação... ({ddd}) 9{num2}-{num3} ");
         }
 
-        public virtual string instalarApp(string nomeApp)
+        public virtual void instalarApp()
         {
-            return "Instalando " + nomeApp;
+            string? nomeApp = "";
+            Console.Write("Por favor, digite o nome do Aplicativo que quer instalar: ");
+            nomeApp = Console.ReadLine();
+
+            
         }
 
     }
