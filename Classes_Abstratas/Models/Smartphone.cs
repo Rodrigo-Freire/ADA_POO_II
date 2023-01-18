@@ -43,6 +43,10 @@ namespace Classes_Abstratas.Models
                     {
                         Console.WriteLine($"Chamando... {numerodiscado}");
                         chamando = 1;
+                        Console.Write("\nChamada finalizada. " +
+                            "\nPressione qualquer tecla para continuar.\n");
+                        Console.ReadKey();
+                        
 
                     }
                 }

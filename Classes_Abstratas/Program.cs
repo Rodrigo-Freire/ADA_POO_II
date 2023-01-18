@@ -12,9 +12,15 @@ namespace Classes_Abstratas
                 $"\nModelo - {celular.modelo}" +
                 $"\nIMEI - {celular.imei}" +
                 $"\nMemória de {celular.memoria}Gb ");
+
+            Console.WriteLine("\nVamos fazer uma ligação.\n");
+            celular.Ligar(0);
+
             Console.WriteLine("\nAgora vamos instalar um aplicativo!\n");        
 
             celular.instalarApp();
+
+
             celular.recebeLigacao();
 
             Console.WriteLine();
@@ -24,6 +30,10 @@ namespace Classes_Abstratas
                             $"\nModelo - {iphone14.modelo}" +
                             $"\nIMEI - {iphone14.imei}" +
                             $"\nMemória de {iphone14.memoria}Gb ");
+
+            Console.WriteLine("\nVamos fazer uma ligação.\n");
+            iphone14.Ligar(0);
+
             Console.WriteLine("\nAgora vamos instalar um aplicativo!\n");
 
             iphone14.instalarApp();
