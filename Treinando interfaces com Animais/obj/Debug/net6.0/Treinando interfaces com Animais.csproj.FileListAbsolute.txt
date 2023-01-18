@@ -1,0 +1,15 @@
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\bin\Debug\net6.0\Treinando interfaces com Animais.exe
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\bin\Debug\net6.0\Treinando interfaces com Animais.deps.json
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\bin\Debug\net6.0\Treinando interfaces com Animais.runtimeconfig.json
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\bin\Debug\net6.0\Treinando interfaces com Animais.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\bin\Debug\net6.0\Treinando interfaces com Animais.pdb
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\Treinando interfaces com Animais.csproj.AssemblyReference.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\Treinando interfaces com Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\Treinando interfaces com Animais.AssemblyInfoInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\Treinando interfaces com Animais.AssemblyInfo.cs
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\Treinando interfaces com Animais.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\Treinando interfaces com Animais.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\refint\Treinando interfaces com Animais.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\Treinando interfaces com Animais.pdb
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\Treinando interfaces com Animais.genruntimeconfig.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Treinando interfaces com Animais\obj\Debug\net6.0\ref\Treinando interfaces com Animais.dll
