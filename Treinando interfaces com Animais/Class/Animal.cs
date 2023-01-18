@@ -20,21 +20,21 @@ namespace Treinando_interfaces_com_Animais.Class
             this.genre = genre;
         }
 
-        public void move()
+        public void Move()
         {
 
         }
         
-        public void communicate()
+        public void Communicate()
         {
 
         }
-        public void feed(string typeFood)
+        public void Feed(string typeFood)
         {
  
         }
 
-        public bool carnivorous(string typeFood)
+        public bool Carnivorous(string typeFood)
         {
             if (typeFood == "carne")
             {
@@ -43,7 +43,7 @@ namespace Treinando_interfaces_com_Animais.Class
             return false;
         }
 
-        public bool venomous(string havePoison)
+        public bool Venomous(string havePoison)
         {
             if (havePoison == "yes")
             {

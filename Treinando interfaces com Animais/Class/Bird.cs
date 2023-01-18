@@ -16,12 +16,12 @@ namespace Treinando_interfaces_com_Animais.Class
             this.age = age;
         }
 
-        public void scratch()
+        public void Scratch()
         {
             Console.WriteLine("I'm pecking!");
         }
 
-        public bool prey(string isHunter)
+        public bool Prey(string isHunter)
         {
             if (isHunter == "yes")
             {
@@ -31,7 +31,7 @@ namespace Treinando_interfaces_com_Animais.Class
             return false;
         }
 
-        public bool featherColor(string haveTwoCollors)
+        public bool FeatherColor(string haveTwoCollors)
         {
             if (haveTwoCollors == "yes")
             {

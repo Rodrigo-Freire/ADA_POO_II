@@ -17,7 +17,8 @@ namespace Treinando_interfaces_com_Animais.Class
             this.birthDate = birthDate;
             this.genre = genre;
             this.age = age;
-            this.qtyBoobs = qtyBoobs;            
+            this.qtyBoobs = qtyBoobs;
+            this.furColor = "no";
         }
 
         public bool Fur(string haveFur)
@@ -32,7 +33,7 @@ namespace Treinando_interfaces_com_Animais.Class
             return false;
         }
 
-        public void breastfeed()
+        public void Breastfeed()
         {
             Console.WriteLine("I'm breastfeeding!");
         }

@@ -16,7 +16,7 @@ namespace Treinando_interfaces_com_Animais.Class
             this.age = age;
         }
 
-        public bool HaveScales(string scales)
+        public static bool HaveScales(string scales)
         {
             if (scales == "yes")
             {
@@ -26,7 +26,7 @@ namespace Treinando_interfaces_com_Animais.Class
             return false;
         }
 
-        public bool hull(string haveHull)
+        public static bool Hull(string haveHull)
         {
             if (haveHull == "yes")
             {
