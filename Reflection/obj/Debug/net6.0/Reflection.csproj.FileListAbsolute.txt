@@ -1,0 +1,15 @@
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\bin\Debug\net6.0\Reflection.exe
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\bin\Debug\net6.0\Reflection.deps.json
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\bin\Debug\net6.0\Reflection.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\bin\Debug\net6.0\Reflection.pdb
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\Reflection.csproj.AssemblyReference.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\Reflection.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\Reflection.pdb
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_II\Reflection\obj\Debug\net6.0\ref\Reflection.dll
