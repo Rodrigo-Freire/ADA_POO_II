@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Treinando_interfaces_com_Animais.Interfaces
 {
-    internal interface Aquatic
+    public interface Aquatic
     {
+        public bool LiveOnLand();
+        public bool Dips();
+        public bool Freshwater();
     }
 }

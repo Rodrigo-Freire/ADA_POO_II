@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Treinando_interfaces_com_Animais.Interfaces
 {
-    internal interface IOvipro
+    public interface IOvipro
     {
+        public void Lay();
+        public void Hatch();
+
     }
 }

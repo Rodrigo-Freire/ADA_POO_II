@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Treinando_interfaces_com_Animais.Interfaces
 {
-    internal interface IFly
+    public interface IFly
     {
+        public string maximumAltitude { get; set; }
+        public double flightSpeed { get; set; }
+        public void Flying();
     }
 }
