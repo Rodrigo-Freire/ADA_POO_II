@@ -15,7 +15,7 @@ namespace Treinando_interfaces_com_Animais.Class.Animals
 
         public void Hatch()
         {
-            Console.WriteLine($"O {Name} incuba os ovos por 8 a 9 meses.");
+            Console.WriteLine($"O {Name} incuba os ovos de 8 a 9 meses.");
         }
 
         public void Lay()
