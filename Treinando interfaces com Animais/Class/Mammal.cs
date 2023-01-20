@@ -8,7 +8,7 @@ namespace Treinando_interfaces_com_Animais.Class
 {
     public class Mammal : Animal
     {
-        int qtyBoobs { get; set; }
+        public int qtyBoobs { get; set; }
         string furColor { get; set; }
 
         public Mammal(string name, DateTime birthDate, char genre, int age, int qtyBoobs) : base(name, birthDate, genre, age)
@@ -21,7 +21,7 @@ namespace Treinando_interfaces_com_Animais.Class
             this.furColor = "no";
         }
 
-        public bool Fur(string haveFur)
+        public virtual bool Fur(string haveFur)
         {
             if (haveFur == "yes")
             {
