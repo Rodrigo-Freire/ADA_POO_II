@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Dictionary dictionary= new Dictionary();
+            dictionary.AddTerm("Manga", "Fruta");
+
+            dictionary.SaveToFile();
+            dictionary.LoadFromFile();
+            dictionary.SearchTerm("Manga");
         }
     }
 }
